@@ -1,0 +1,13 @@
+{
+    "name": "Alexander Vasilyev/aslan-log",
+    "license": "MIT",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "Aslan\\Log\\": "src/Aslan/src/Log/",
+            "Aslan\\": "src/Aslan/src/"
+        }
+    },
+} 
